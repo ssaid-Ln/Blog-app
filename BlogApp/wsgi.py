@@ -1,5 +1,5 @@
 """
-WSGI config for BlogApp project.
+WSGI config for cb project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

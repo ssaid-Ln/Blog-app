@@ -1,5 +1,5 @@
 """
-ASGI config for BlogApp project.
+ASGI config for cb project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
