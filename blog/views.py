@@ -24,3 +24,8 @@ def post_create(request):
         form = PostForm()
     return render(request, 'blog/post_form.html', {'form': form})
 
+
+@login_required
+def profile(request):
+    return render(request, 'blog/profile.html')
+
